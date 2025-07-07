@@ -6,7 +6,7 @@ Built as part of my exploration into product thinking and market strategy, this 
 
 ---
 
-## 📌 Why Games on LinkedIn?
+## Why Games on LinkedIn?
 
 LinkedIn isn’t just a job board anymore. With the introduction of brain teaser games, it’s creating micro-interactions to:
 
@@ -16,37 +16,37 @@ LinkedIn isn’t just a job board anymore. With the introduction of brain teaser
 
 ---
 
-## 🔍 What’s Inside
+## What’s Inside
 
-- 📈 **Market Sizing** – Global, India-specific, and LinkedIn’s own scope
-- 🧑‍💻 **User Personas** – Realistic, relatable professionals with clear goals & pain points
-- 🎯 **Features & Prioritization** – Thought-through with RICE framework
-- 📊 **Metrics** – Engagement, adoption, feedback loops
-- ⚠️ **Pitfalls & Mitigation** – Honest look at risks and how to handle them
-
----
-
-## 💡 Highlight Features
-
-| Feature               | Purpose                               | Impact                                      |
-| --------------------- | ------------------------------------- | ------------------------------------------- |
-| 🔵 **ProRank**        | Individual leaderboards               | Encourages personal branding & motivation   |
-| 🔴 **Network Battle** | Real-time challenges with connections | Drives engagement and virality              |
-| 🟢 **MindMap**        | Personalized feedback post-game       | Boosts reflection and long-term interaction |
+- **Market Sizing** – Global, India-specific, and LinkedIn’s own scope
+- **User Personas** – Realistic, relatable professionals with clear goals & pain points
+- **Features & Prioritization** – Thought-through with RICE framework
+- **Metrics** – Engagement, adoption, feedback loops
+- **Pitfalls & Mitigation** – Honest look at risks and how to handle them
 
 ---
 
-## 📐 Prioritization - RICE Framework
+## Highlight Features
+
+| Feature            | Purpose                               | Impact                                      |
+| ------------------ | ------------------------------------- | ------------------------------------------- |
+| **ProRank**        | Individual leaderboards               | Encourages personal branding & motivation   |
+| **Network Battle** | Real-time challenges with connections | Drives engagement and virality              |
+| **MindMap**        | Personalized feedback post-game       | Boosts reflection and long-term interaction |
+
+---
+
+## Prioritization - RICE Framework
 
 Each feature is scored using Reach, Impact, Confidence, and Effort to ensure maximum value:
 
-1. 🥇 MindMap – Highest impact due to deep personalization
-2. 🥈 Network Battle – Competitive hook with medium lift
-3. 🥉 ProRank – Quick to ship, supports individual growth
+1.  MindMap – Highest impact due to deep personalization
+2.  Network Battle – Competitive hook with medium lift
+3.  ProRank – Quick to ship, supports individual growth
 
 ---
 
-## 🚀 Go-To-Market Plan
+## Go-To-Market Plan
 
 **Pre-launch**: Beta testing, teaser drops  
 **Launch**: Virtual demo day, LinkedIn feature rollout  
@@ -54,7 +54,7 @@ Each feature is scored using Reach, Impact, Confidence, and Effort to ensure max
 
 ---
 
-## ⚠️ Challenges We Anticipated
+## Challenges We Anticipated
 
 - Gamification fatigue
 - Privacy concerns with visible scores
